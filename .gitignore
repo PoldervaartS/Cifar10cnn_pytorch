@@ -1,0 +1,5 @@
+/predictions
+*/.vscode
+*/__pycache__
+*.tex
+*.pdf
